@@ -53,6 +53,7 @@ s.close()
 ## OUTPUT
 ## Server.py
 <img width="1202" height="357" alt="image" src="https://github.com/user-attachments/assets/76573fc8-0dcd-4d2d-8cab-976079a67f71" />
+
 ## Client.py
 <img width="1542" height="395" alt="image" src="https://github.com/user-attachments/assets/1c1e2219-da57-4156-b8da-358d36e7c697" />
 
